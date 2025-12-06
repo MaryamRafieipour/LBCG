@@ -27,9 +27,9 @@ Projects/Peak2Gene/
 
 ## Environment / Software Versions
 
-- R version: 4.3.2  
-- RStudio: 2023.06.1  
-- Rtools: 4.3
+- R version: 4.5.2 (2025-10-31 ucrt)
+- RStudio: 2025.9.2.418  
+- Rtools: rtools45
 
 ---
 
