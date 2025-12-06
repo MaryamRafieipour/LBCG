@@ -1,0 +1,63 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+venv/
+env/
+.env
+*.log
+
+# =========================
+# R
+# =========================
+.Rhistory
+.RData
+.Rproj.user
+.Ruserdata
+.Rapp.history
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Data / Results
+# =========================
+data/
+results/
+output/
+figures/
+plots/
+
+# =========================
+# OS / IDE
+# =========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*.tmp
+.idea/
+.vscode/
+*.Rproj
+
+# =========================
+# Misc
+# =========================
+*.csv
+*.tsv
+*.xlsx
+*.vcf
+*.bam
+*.fastq
