@@ -16,7 +16,7 @@ different peak-to-gene assignment methods on a single dataset.
 ## Folder Structure
 ```
 Projects/Peak2Gene/
-├── data/          # Input peak files or links to datasets
+├── data/          # Datasets
 ├── notebooks/     # R Markdown notebooks for each method and comparison
 ├── src/           # Helper R scripts
 ├── results/       # Output tables, plots, figures
